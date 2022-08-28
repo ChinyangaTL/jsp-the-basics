@@ -11,6 +11,10 @@ JSP File Location?
 - Goes into the webapp folder
 --%>
 
+<%--
+To inject Java into jsp file, use the "<%=%> javacode %>"
+--%>
+
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
@@ -22,5 +26,7 @@ JSP File Location?
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<br/>
+<p>The time on the server is now <%= new java.util.Date()%> </p>
 </body>
 </html>
