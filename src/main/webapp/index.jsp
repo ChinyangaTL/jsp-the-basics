@@ -15,7 +15,7 @@ JSP File Location?
 JSP Scripting elements
 JSP Expression --> <%= some java expression %> | A java expression is executed and the result is included as HTML in the browser
 JSP Scriplet --> <% some java code, 1 to many lines %> | include content in page with out.println()
-JSP Declaration --> <%! variable or method declaration %>
+JSP Declaration --> <%! variable or method declaration % | Can declare and call methods in JSP>
 --%>
 
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
@@ -30,10 +30,12 @@ JSP Declaration --> <%! variable or method declaration %>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <br/>
-<p>The time on the server is now <%= new java.util.Date()%> </p>e
+<p>The time on the server is now <%= new java.util.Date()%> </p>
 <hr/>
 <a href="./jsp_expressions_test.jsp">JSP Expressions Examples</a>
 <br/>
 <a href="./jsp_scriplet_test.jsp">JSP Scriptlet Examples</a>
+<br/>
+<a href="./jsp_declaration_test.jsp">JSP Declaration Examples</a>
 </body>
 </html>
