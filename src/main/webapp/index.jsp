@@ -25,6 +25,7 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
     <title>JSP - Hello World</title>
 </head>
 <body>
+<jsp:include page="components/header.html"/>
 <h1><%= "Hello World!" %>
 </h1>
 <br/>
