@@ -39,5 +39,8 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
 <a href="./jsp_declaration_test.jsp">JSP Declaration Examples</a>
 <br/>
 <a href="./utils_test.jsp">Importing methods from files example</a>
+<br/>
+<hr/>
+<a href="./builtin_test.jsp">Built In Server Objects</a>
 </body>
 </html>
