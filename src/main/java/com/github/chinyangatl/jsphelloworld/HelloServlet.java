@@ -1,4 +1,4 @@
-package com.github.chinyangatl.helloworld;
+package com.github.chinyangatl.jsphelloworld;
 
 import java.io.*;
 
