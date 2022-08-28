@@ -1,0 +1,20 @@
+Purpose
+
+- personalize a site for a user
+- keep track of user preferences
+
+What they are
+- text data exhcangeed between the server and the browser
+
+Content
+Name/value pair
+
+How are they passed
+- a browser will only send cookies taht match that server's domain name
+
+Cookie API - pacakge
+Cookie class is defined in the javax.servlet.http
+Imported for free in all jsp pages
+
+Construcutor
+Cookie(String name, String value)
