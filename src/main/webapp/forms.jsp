@@ -13,6 +13,8 @@
 <br/>
 <a href="./student-radio-button-form.html">Form with radio buttons</a>
 <br/>
+<a href="./student-checkbox-form.html">Form with checkbox buttons</a>
+<br/>
 <hr/>
 <a href="./index.jsp">Back home</a>
 </body>
