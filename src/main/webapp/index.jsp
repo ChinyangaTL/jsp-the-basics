@@ -28,5 +28,7 @@ To inject Java into jsp file, use the "<%=%> javacode %>"
 <a href="hello-servlet">Hello Servlet</a>
 <br/>
 <p>The time on the server is now <%= new java.util.Date()%> </p>
+<hr/>
+<a href="./jsp_expressions_test.jsp">JSP Expressions Examples</a>
 </body>
 </html>
