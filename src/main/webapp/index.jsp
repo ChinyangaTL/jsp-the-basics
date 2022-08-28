@@ -42,5 +42,8 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
 <br/>
 <hr/>
 <a href="./builtin_test.jsp">Built In Server Objects</a>
+<br/>
+<hr/>
+<a href="./homepage.jsp">Example of including other files</a>
 </body>
 </html>
