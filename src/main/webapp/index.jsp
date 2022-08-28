@@ -30,9 +30,10 @@ JSP Declaration --> <%! variable or method declaration %>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
 <br/>
-<p>The time on the server is now <%= new java.util.Date()%> </p>
+<p>The time on the server is now <%= new java.util.Date()%> </p>e
 <hr/>
 <a href="./jsp_expressions_test.jsp">JSP Expressions Examples</a>
-<a href="./jsp_expressions_test.jsp">JSP Scripting Examples</a>
+<br/>
+<a href="./jsp_scriplet_test.jsp">JSP Scriptlet Examples</a>
 </body>
 </html>
