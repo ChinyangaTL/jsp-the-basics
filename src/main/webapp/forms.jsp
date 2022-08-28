@@ -11,6 +11,8 @@
 <br/>
 <a href="./student-form-dropdown.html">Form with dropdown</a>
 <br/>
+<a href="./student-radio-button-form.html">Form with radio buttons</a>
+<br/>
 <hr/>
 <a href="./index.jsp">Back home</a>
 </body>
