@@ -66,5 +66,7 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
 <br/>
 <hr/>
 <a href="./jstl/function-test.jsp">JSTL fn tags</a>
+<br/>
+<a href="./jstl/split-join-test.jsp">JSTL fn split and join</a>
 </body>
 </html>
