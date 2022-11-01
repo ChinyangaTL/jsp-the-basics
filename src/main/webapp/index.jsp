@@ -55,5 +55,6 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
 <br/>
 <hr/>
 <a href="./jstl/jstl-test.jsp">To JSTL</a>
+<a href="./jstl/forEachSimpleTest.jsp">forEach JSTL</a>
 </body>
 </html>
