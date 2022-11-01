@@ -52,5 +52,8 @@ JSP Declaration --> <%! variable or method declaration % | Can declare and call 
 <br/>
 <hr/>
 <a href="./statemanagement/cookies-homepage.jsp">Cookie Demo</a>
+<br/>
+<hr/>
+<a href="./jstl/jstl-test.jsp">To JSTL</a>
 </body>
 </html>

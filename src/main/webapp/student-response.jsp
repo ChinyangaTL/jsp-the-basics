@@ -12,6 +12,6 @@
 </head>
 <body>
 <%--<%= request.getParameter("First name")%>--%>
-  The student is confirmed ${param.firstName} ${param.lastName}
+  The student is confirmed ${param.firstName} ${request.lastName}
 </body>
 </html>
